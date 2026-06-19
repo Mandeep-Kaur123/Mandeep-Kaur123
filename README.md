@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋, I'm Mandeep
 
-<!--
-**Mandeep-Kaur123/Mandeep-Kaur123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science (AI) Student
+💻 Passionate about Artificial Intelligence, Machine Learning, and Data Science
+🌱 Currently learning Python, Data Analytics, and AI Development
+🚀 Exploring real-world projects and improving my problem-solving skills
 
-Here are some ideas to get you started:
+-> Skills
+  Python
+  Machine Learning
+  C++
+  SQL
+  HTML
+  
+-> 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/mandeep-kaur-1233a5321?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank You for Visiting My Profile
