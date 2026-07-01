@@ -1,9 +1,9 @@
-Hi 👋, I'm Mandeep
+Hi , I'm Mandeep
 
 🎓 B.Tech Computer Science (AI) Student
 💻 Passionate about Artificial Intelligence, Machine Learning, and Data Science
    Currently learning Python, Data Analytics, and AI Development
-🚀 Exploring real-world projects and improving my problem-solving skills
+ Exploring real-world projects and improving my problem-solving skills
 
 -> Skills
   Python
