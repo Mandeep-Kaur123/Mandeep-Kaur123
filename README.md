@@ -1,6 +1,20 @@
 Hi , I'm Mandeep
 
-🎓 B.Tech Computer Science (AI) Student
+🎓 Education
+
+Bachelor of Technology (B.Tech)
+- Computer Science & Engineering (Artificial Intelligence)
+- Kurushetra University
+- 2023 – 2027
+
+Senior Secondary (12th)
+- Anand Public School
+- Year: 2023
+
+Secondary (10th)
+- Ananad PublicSchool
+- Year: 2020
+
 💻 Passionate about Artificial Intelligence, Machine Learning, and Data Science
    Currently learning Python, Data Analytics, and AI Development
  Exploring real-world projects and improving my problem-solving skills
